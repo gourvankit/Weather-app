@@ -1,6 +1,9 @@
 This repository is using ReactJS, TypeScript and TailwindCSS. It also runs on node 18 (see .nvmrc) and has a formatter - prettier. If you're running this for the first time - please ensure you have nvm (node version manager).
-
+## Screenshots
+![image](https://user-images.githubusercontent.com/73584740/219561427-6c949f32-f88c-4f2a-a264-541d711ad503.png)
+![image](https://user-images.githubusercontent.com/73584740/219561389-456d5ac0-8c0f-4691-b60a-ce861db3d89f.png)
 ## How To Run
+
 
 If you don't have nvm installed, run the following command:
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
